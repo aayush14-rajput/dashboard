@@ -1,0 +1,46 @@
+nav{
+    height: 5vh;
+    padding: 15px 40px;
+    background-color: lightseagreen;
+
+    
+}
+
+.hound{
+
+font-size: 25px;
+color: aliceblue;
+font-family: Arial, Helvetica, sans-serif;
+}
+.indent{
+
+    padding: 0px 150px;
+}
+.search{
+
+    width: 320px;
+    margin: -30px 280px;
+    height: 4vh;
+    display: flex;
+}
+.text{
+
+    width: 20vw;
+    height: 3vh;
+    border-radius: 50px;
+}
+.icon{
+
+    height: 3vh;
+    padding: 3px 0px;
+
+}
+.end{
+
+    margin: 5px 1040px;
+    width: 20vw;
+}
+.gear{
+
+    height: 4vh;
+}

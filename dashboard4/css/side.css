@@ -1,0 +1,40 @@
+.side{
+
+    width: 12vw;
+    height: 80vh;
+    padding: 15px 40px;
+    margin: 75px 100px;
+    background-color: lightcoral;
+}
+.main{
+
+    border: 2px solid lightseagreen;
+    height: 100vh;
+    background-color: lightseagreen;
+}
+.ovis{
+
+    font-size: 20px;
+    color: blueviolet;
+}
+.prem{
+
+    color: blueviolet;
+    padding: 0px 2px;
+
+}
+.home{
+
+    margin: 10px 0px;
+}
+.hoe{
+
+    font-size: 20px;
+    padding: 0px 5px;
+    color: rgb(120, 120, 120);
+}
+.gear{
+
+    height: 3vh;
+}
+

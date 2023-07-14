@@ -1,0 +1,157 @@
+.dash{
+
+    margin: -676px 368px;
+    width: 60vw;
+    height: 80vh;
+    padding: 15px 20px;
+    background-color: lightpink;
+}
+.board{
+font-size: 35px;
+
+}
+.date{
+
+    width: 20vw;
+    margin: -30px 570px;
+
+}
+.line{
+    margin: 40px 0px;
+    display: flex;
+    height: 16vh;
+    gap: 15px;
+
+    
+}
+.pay{
+
+    width: 30%;
+    padding: 20px 0px;
+    border-right: 3px solid grey;
+    
+}
+
+.no{
+
+    margin: 7px 0px;
+    font-size: 20px;
+}
+.out{
+
+    font-size: 22px;
+}
+.per{
+    color: red;
+    margin: 0px 10px;
+    border-radius: 50px;
+    background-color: rgb(253, 133, 133);
+}
+.cent{
+
+    color: green;
+    margin: 0px 10px;
+    border-radius: 10px;
+    background-color: rgb(108, 255, 108);
+}
+.py{
+
+    color: blue;
+}
+.num{
+
+    color: grey;
+}
+.sale{
+
+    margin: 7px 0px;
+    height: 22vh;
+
+}
+.line2{
+
+    margin: 12px 0px;
+    display: flex;
+    padding: 0px 20px;
+    height: 17vh;
+    gap: 10px;
+    
+}
+.sess{
+
+    width: 20%;
+    border-right: 2px solid grey;
+    border-left: 2px solid grey;
+}
+.pro{
+
+    width: 20%;
+}
+.Cart{
+
+    width: 20%;
+    background-color: blue;
+    padding: 10px 10px;
+}
+
+.init{
+
+    width: 20%;
+    border-right: 2px solid grey;
+}
+.pur{
+
+    width: 20%;
+    border-right: 2px solid grey;
+}
+.ion{
+
+    font-size: 20px;
+    color: grey;
+}
+.point{
+
+    font-size: 20px;
+}
+.poi{
+
+    margin: 5px 0px;
+}
+.add{
+
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.nine{
+
+    font-size: 20px;
+    color: whitesmoke;
+}
+.dev{
+
+    border: 2px solid whitesmoke;
+    height: 25vh;
+    width: 20vw;
+    background-color: whitesmoke;
+    
+}
+.donut{
+
+    height: 20vh;
+    width: 18vw;
+}
+.audi{
+
+    border: 2px solid whitesmoke;
+    width: 30vw;
+    margin: -180px 330px;
+    width: 35vw;
+    height: 24vh;
+    background-color: whitesmoke;
+}
+.den{
+
+    height: 21vh;
+    width: 33vw;
+}

@@ -1,0 +1,128 @@
+.center{
+    width: 80vw;
+    height: 95vh;
+    margin: -725px 230px;
+    padding: 18px;
+}
+.bash{
+
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ash{
+
+    margin: 4px 0px;
+    height: 3vh;
+    padding: 3px 12px;
+    background-color: rgb(233, 233, 233);
+    color: rgb(107, 107, 107);
+    
+}
+.card{
+
+    display: flex;
+    margin: 15px 0px;
+    height: 12vh;
+    gap: 40px;
+}
+.primary{
+
+    width: 16%;
+    background-color: blue;
+    padding: 15px 20px;
+    
+    
+}
+.warning{
+
+    width: 16%;
+    background-color: rgb(255, 255, 58);
+    padding: 15px 20px;
+}
+.success{
+
+    width: 16%;
+    background-color: green;
+    padding: 15px 20px;
+    
+}
+.danger{
+
+    width: 16%;
+    background-color: red;
+    padding: 15px 20px;
+}
+.prime{
+
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.view{
+
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.arrow{
+    width: 5vw;
+    margin: -20px 170px;
+}
+.graph{
+
+    height: 35vh;
+    width: 33vw;
+    border: 2px solid lightgrey;
+}
+.Area{
+
+    height: 4vh;
+    padding: 2px 30px;
+    background-color: rgb(226, 226, 226);
+    
+}
+.dot{
+    padding: 10px 0px;
+    width: 33vw;
+    height: 27vh;
+}
+
+.graph2{
+
+    border: 2px solid lightgrey;
+    width: 33vw;
+    height: 34vh;
+    margin: -250px 555px;
+
+}
+.tap{
+
+    border: 2px solid lightgrey;
+    margin: 270px 0px;
+    height: 32vh;
+}
+table{
+
+    border: 2px solid lightgrey;
+    margin: 25px 10px;
+    width: 75vw;
+    height: 18vh;
+}
+th{
+    border-bottom: 2px solid lightgrey;
+    text-align: center;
+}
+.data{
+
+    margin: 10px 900px;
+    display: flex;
+
+}
+.show{
+
+    margin: -20px 10px;
+}
+
+
+
+

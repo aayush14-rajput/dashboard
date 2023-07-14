@@ -1,0 +1,352 @@
+nav{
+
+    border: 2px solid lightgrey;
+    height: 8vh;
+    /* margin-left: 330px; */
+    width: 100vw;
+    background-color: white;
+
+}
+.side{
+
+    width: 15vw;
+    margin: 2px 0px;
+    height: 98vh;
+    border-right: 3px solid lightgrey;
+
+}
+.search{
+
+    margin: -20px 200px;
+    width: 20vw;
+}
+.arch{
+
+    height: 3vh;
+}
+.last{
+
+margin: -25px 1000px;
+width: 20vw;
+}
+.con{
+
+    padding: 0px 20px;
+}
+
+
+
+.add{
+
+    
+    width: 160px;
+    padding: 0px 70px;
+    margin: -20px 0px;
+
+
+
+}
+.ecom{
+
+
+    margin: -30px;
+    padding-left: 29px;
+    color: rgb(133, 206, 230);
+    
+}
+h3{
+    font-size: 25px;
+    color: blue;
+    
+}
+.indent{
+    margin-left: 100px;
+    margin-top: -150px;
+
+}
+.dash{
+
+    width: 218px;
+    margin: 0px 10px;
+    background-color: rgb(177, 236, 255);
+}
+.ash{
+
+    padding: 0px 7px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pro{
+
+    width: 250px;
+    margin: 12px 10px;
+}
+.two{
+    padding: 0px 7px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.arrow{
+    padding-left: 84px;
+
+}
+.ord{
+    width: 250px;
+    margin: 12px 10px;
+}
+.der{
+    padding: 0px 7px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.arrow1{
+   
+    padding-left: 99px;
+}
+.cus{
+    width: 250px;
+    margin: 12px 10px;
+
+}
+.custo{
+    padding: 0px 7px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.arrow2{
+    padding-left: 68px;
+
+}
+
+.stat{
+    width: 250px;
+    margin: 12px 10px;
+
+
+}
+
+.tics{
+    padding: 0px 7px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.review{
+    width: 250px;
+    margin: 12px 10px;
+}
+
+.view{
+    padding: 0px 7px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.trans{
+    width: 250px;
+    margin: 12px 10px;
+}
+
+.action{
+
+    padding: 0px 7px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.seller{
+    width: 250px;
+    margin: 12px 10px;
+}
+.sell{
+
+    padding: 0px 7px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hot{
+    width: 250px;
+    margin: 12px 10px;
+}
+
+.offer{
+    padding: 0px 7px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.appear{
+    width: 250px;
+    margin: 12px 10px;
+}
+
+.rance{
+    padding: 0px 7px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.set{
+
+    width: 250px;
+    margin: 12px 10px;
+}
+
+.ting{
+
+    padding: 0px 7px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bash{
+    margin: -700px 240px;
+    width: 80vw;
+    height: 98vh;
+}
+
+.sash{
+
+    padding: 10px 30px;
+    font-size: 25px;
+}
+.line{
+display: flex;
+margin: 0px 30px;
+height: 10vh;
+gap: 20px;
+
+}
+.three{
+
+    width: 25%;
+    background-color:lightcoral;
+}
+.four{
+
+    width: 25%;
+    background-color: lightgreen;
+    
+}
+.five{
+
+    width: 25%;
+    background-color: cadetblue;
+}
+.doll{
+
+    height: 5vh;
+    margin: 15px 20px;
+    background-color: orangered;
+    border-radius: 20px;
+    
+}
+.Sales{
+
+    margin: -55px 70px;
+
+}
+.num{
+
+    padding: 30px 70px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.art{
+
+    height: 5vh;
+    margin: 15px 20px;
+    background-color: green;
+    border-radius: 20px;
+
+}
+.shop{
+
+    height: 5vh;
+    margin: 15px 20px;
+    background-color: blue;
+    border-radius: 20px;
+}
+.pie{
+
+    border: 2px solid whitesmoke;
+    margin: 10px 30px;
+    height: 30vh;
+    width: 38vw;
+    background-color: whitesmoke;
+    
+}
+.graph{
+
+    height: 25vh;
+    margin: 5px 20px;
+    width: 36vw;
+}
+.chart{
+
+    font-size: 20px;
+    padding: 5px 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.circle{
+
+    border: 2px solid whitesmoke;
+    margin: -217px 600px;
+    width: 25vw;
+    height: 30vh;
+    background-color: whitesmoke;
+}
+.round{
+
+    height: 30vh;
+    width: 23vw;
+}
+.tab{
+
+    border: 2px solid whitesmoke;
+    margin: 10px 30px;
+    height: 38vh;
+    width: 65vw;
+    background-color: whitesmoke;
+}
+.table{
+
+    margin: 5px 25px;
+    height: 33vh;
+    width: 63vw;
+    gap: 30px;
+}
+
+table{
+    width: 60vw;
+    height: 30vh;
+}
+.ver{
+    color: green;
+    background-color: rgb(185, 246, 185);
+    border-radius: 40px;
+}
+.cancel{
+    color: red;
+    background-color: rgb(255, 132, 132);
+    border-radius: 40px;
+
+}
+.pend{
+    background-color: rgb(255, 255, 180);
+    color: yellow;
+    border-radius: 40px;
+
+}
+
+
+
+
+
+    
+
+
+

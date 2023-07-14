@@ -1,0 +1,294 @@
+.middle{
+
+    border: 2px solid lightcoral;
+    width: 81vw;
+    margin: -658px 242px;
+    height: 91vh;
+    background-color: lightcoral;
+}
+
+.container{
+
+    margin: 25px 15px;
+    display: flex;
+    height: 12vh;
+    gap: 20px;
+}
+
+.visit{
+
+    width: 15%;
+    background-color: red;
+    padding: 20px 35px;
+}
+.bounce{
+
+    width: 15%;
+    background-color: yellow;
+    padding: 20px 35px;
+}
+.page{
+
+    width: 15%;
+    background-color: green;
+    padding: 20px 35px;
+}
+.growth{
+
+    width: 15%;
+    background-color: blue;
+    padding: 20px 35px;
+}
+.num{
+
+    font-size: 25px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.sit{
+
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 0px 15px;
+}
+.male{
+    margin: -65px 120px;
+    width: 5vw;
+    height: 10vh;
+}
+.pic{
+
+    height: 10vh;
+}
+.chart{
+
+    height: 10vh;
+    padding: 0px 5px;
+}
+.doc{
+
+    height: 10vh;
+    padding: 0px 5px;
+}
+.curve{
+
+    height: 10vh;
+    padding: 0px 5px;
+
+
+}
+.graph{
+
+    border: 2px solid whitesmoke;
+    width: 32vw;
+    height: 55vh;
+    margin: 0px 15px;
+    padding: 10px 15px;
+    background-color: whitesmoke;
+}
+b{
+    font-size: 20px;
+}
+.line{
+
+    height: 42vh;
+    width: 32vw;
+    padding: 10px 0px;
+}
+.boot{
+
+    width: 10vw;
+    margin: 0px 30px;
+
+}
+.User{
+    color: rgb(41, 41, 41);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.numb{
+
+    padding: 0px 15px;
+}
+
+.Month{
+
+    width: 10vw;
+    margin: -44px 200px;
+}
+.curv{
+    margin: -40px 150px;
+    width: 5vw;
+    height: 6vh;
+}
+.imge{
+
+    height: 3vh;
+    width: 2vw;
+    padding: 3px;
+}
+.customer{
+
+    border: 2px solid whitesmoke;
+    width: 18vw;
+    height: 25vh;
+    margin: -415px 550px;
+    padding: 10px 40px;
+    background-color: whitesmoke;
+
+}
+.per{
+
+    margin: 20px 0px;
+}
+
+.cent{
+
+    padding: 0px 60px;
+    font-size: 50px;
+    color: blueviolet;
+    border-bottom: 4px solid blueviolet;
+}
+.pre{
+    width: 7vw;
+    margin: 0px 10px;
+}
+.change{
+    width: 5vw;
+    margin: -40px 100px;
+}
+.arc{
+    width: 5vw;
+    margin: 1px 200px;
+}
+.second{
+
+    border: 2px solid whitesmoke;
+    margin: 420px 550px;
+    width: 22vw;
+    height: 26vh;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+.list{
+    margin: 27px -30px;
+    width: 21vw;
+    height: 18vh;
+}
+.bor{
+    border-bottom: 2px solid lightgray;
+    width: 22vw;
+}
+.scent{
+
+    border: 2px solid yellow;
+    margin: 0px 82px;
+    border-radius: 50px;
+    background-color: yellow;
+}
+.acent{
+
+    border: 2px solid red;
+    margin: 0px 87px;
+    border-radius: 50px;
+    background-color: red;
+}
+.tag{
+
+    border: 2px solid green;
+    margin: 0px 67px;
+    border-radius: 50px;
+    background-color: green;
+
+
+}
+.age{
+
+    
+    border: 2px solid blue;
+    margin: 0px 168px;
+    border-radius: 50px;
+    background-color: blue;
+}
+
+.browse{
+
+    padding: 0px 10px;
+
+}
+.x{
+
+    width: 5vw;
+    margin: -20px 210px;
+
+    
+}
+.by{
+    border: 2px solid whitesmoke;
+    margin: -834px 922px;
+    width: 17vw;
+    height: 57vh;
+    padding: 10px 10px;
+    background-color: whitesmoke;
+
+}
+.dotted{
+
+    padding: 0px 20px;
+}
+.cir{
+
+    padding:10px 0px;
+}
+.gan{
+
+    width: 1vw;
+    height: 2vh;
+    background-color: rgb(0, 0, 136);
+}
+.point{
+
+    padding: 0px 10px;
+    font-size: 18px;
+}
+.vis{
+
+    padding: 0px 40px;
+    color: rgb(131, 220, 42);
+}
+
+.gri{
+
+    width: 1vw;
+    height: 2vh;
+    background-color: green;
+
+
+}
+
+.yel{
+
+    width: 1vw;
+    height: 2vh;
+    background-color: yellow;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

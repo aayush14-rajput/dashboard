@@ -1,0 +1,39 @@
+nav{
+
+    height: 5vh;
+    padding: 15px 40px;
+    background-color: rgb(95, 95, 95);
+}
+.start{
+
+    font-size: 25px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.indent{
+
+    padding: 0px 20px;
+}
+.search{
+
+    margin:-30px 800px;
+    width: 20vw;
+    height: 5vh;
+}
+.for{
+    height: 4vh;
+    width: 18vw;
+}
+.icon{
+     width: 2vw;
+    height: 4.7vh;
+    margin: -35px 1085px;
+    background-color: rgb(81, 81, 255);
+    
+}
+.last{
+
+    margin: 5px 1200px;
+    display: flex;
+    
+}
